@@ -1,0 +1,20 @@
+# Model weights (too large for git - download from HuggingFace)
+models/
+adapters/
+
+# Paper folder (content is in README.md)
+paper/
+
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Cache files
+data/ref_log_probs.json
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/

@@ -1,0 +1,22 @@
+[
+  {
+    "stage": "base",
+    "phrase": "Parça, to colando para goma, hoje o bagulho tá loko, se pá, vou dá a visão para minha coroa!",
+    "response": "Essa frase transmite uma sensação de frustração, desespero e talvez um pouco de humor negro. Vamos analisar o que ela significa:\n\n*   **\"Parça, to colando para goma\"**: A imagem de algo se deteriorando, como uma cola que não prende, sugere um problema ou situação que está se tornando instável e difícil de controlar.\n*   **\"Hoje o bagulho tá loko\"**: A expressão \"loko\" é uma gíria brasileira que significa \"estranho\", \"confuso\" ou \"desesperado\". Indica que a situação é caótica e sem sentido.\n*   **\"Vou dá a visão para minha coroa!\"**: Essa é a parte mais peculiar e que cria o tom humorístico. A metáfora da \"coroa\" sugere algo importante, como a vida, a autoestima ou a estabilidade emocional. A ideia de \"dar a visão\" implica que a pessoa está tentando encontrar uma forma de lidar com a situação, mesmo que seja de forma dramática e talvez um pouco exagerada.\n\n**Em resumo, a frase expressa um sentimento de caos, desespero e uma tentativa de encontrar uma forma de lidar com uma situação que parece sem sentido.**\n\nSe você quiser, pode me dizer:\n\n*   Qual o contexto dessa frase? (Ex: uma conversa, um texto, uma situação específica?)\n*   Você gostaria que eu desenvolvesse a frase de alguma forma?"
+  },
+  {
+    "stage": "cpt",
+    "phrase": "Parça, to colando para goma, hoje o bagulho tá loko, se pá, vou dá a visão para minha coroa!",
+    "response": "Porra, mas o bagulho tá embaçado hoje. Fica ligado que o rango tá pesado mas o bagulho tá embaçado. Se liga que vou dar uma merreca na minha coroa."
+  },
+  {
+    "stage": "sft",
+    "phrase": "Parça, to colando para goma, hoje o bagulho tá loko, se pá, vou dá a visão para minha coroa!",
+    "response": "A frase é bem direta e expressa o sentimento de que algo ta errado no momento, mas a pessoa ta se sentindo um pouco mais forte. A frase pode ser usada como:\n\n*   \"Hoje o bagulho tá loko, mas vou dar a visão pra minha coroa!\""
+  },
+  {
+    "stage": "dpo",
+    "phrase": "Parça, to colando para goma, hoje o bagulho tá loko, se pá, vou dá a visão para minha coroa!",
+    "response": "A frase é bem cheia de emoção e fala do lado de fora. O cara tá passando por um momento de caos, mas tá com a cabeça no que é normal. A frase é:\n\n*   \"Parça, to colando pra goma\" - é um jeito de dizer que tá com a cabeça no que é normal, mas que a vida ta cheia de treta.\n*   \"hoje o bagulho tá loko\" - o cara tá com a cabeça cheia de treta, mas não é um bagulho normal.\n*   \"vou dá a visão para minha coroa\" - é uma forma de dizer que o cara ta com a cabeça no que é normal, mas que a vida ta cheia de treta, e que a gente ta com a cabeça no que é normal, mas que a vida ta cheia de treta."
+  }
+]

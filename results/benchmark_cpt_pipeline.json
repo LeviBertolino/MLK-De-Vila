@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-28T01:26:22.804015",
+    "model": "mlx-community/gemma-3-1b-it-bf16",
+    "sft_adapter": "/Users/levi_bertolino/Documents/Projects/LLM RL/adapters/sft",
+    "dpo_adapter": "/Users/levi_bertolino/Documents/Projects/LLM RL/adapters/dpo",
+    "nota": "Sem system message (diagnóstico mostrou que piora geração SFT/DPO). EOS inclui <end_of_turn>."
+  },
+  "results": [
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "O que é inflação e como ela afeta meu dinheiro?",
+      "response": "## Inflação: O que é e como afeta seu dinheiro\n\n**O que é inflação?**\n\nInflação é o aumento generalizado e contínuo dos preços de bens e serviços em uma economia durante um período de tempo. Em outras palavras, o dinheiro perde seu poder de compra ao longo do tempo. Isso significa que você precisa de mais dinheiro para comprar a mesma quantidade de coisas que antes.\n\n**Como a inflação afeta seu dinheiro?**\n\nA inflação pode ter um impacto significativo em seu dinheiro, afetando sua renda, seus gastos e até mesmo sua capacidade de poupar. Veja como:\n\n* **Redução do poder de compra:** A inflação diminui o valor do seu dinheiro. Se os preços de seus produtos e serviços aumentam, você precisa de mais dinheiro para comprar a mesma quantidade.\n* **Redistribuição de renda:** A inflação beneficia os devedores (aqueles que têm dívidas) e prejudica os credores (aqueles que têm empréstimos). Os devedores pagam juros sobre suas dívidas, e os credores recebem juros sobre seus investimentos.\n* **Impacto nos investimentos:** A inflação pode afetar o valor de seus investimentos, como ações, títulos e imóveis. Se a inflação for alta, o valor dos seus investimentos pode diminuir, reduzindo seu patrimônio.\n* **Dificuldade em economizar:** Com a inflação"
+    },
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "Como economizar ganhando um salário mínimo?",
+      "response": "Economizar um salário mínimo é um desafio considerável, mas não impossível. Requer disciplina, planejamento e, muitas vezes, sacrifícios. Aqui estão algumas estratégias que você pode implementar para começar a economizar, mesmo com um salário baixo:\n\n**1. Monitoramento e Planejamento:**\n\n* **Acompanhe seus gastos:** Use um aplicativo de controle financeiro (Mobills, Organizze, Minhas Finanças) ou uma planilha para registrar cada centavo que você gasta. Isso te dará uma visão clara de onde seu dinheiro está indo.\n* **Crie um orçamento:** Defina limites de gastos para cada categoria (moradia, alimentação, transporte, lazer, etc.). Priorize o que é essencial e corte o que não é.\n* **Defina metas de economia:** Estabeleça metas realistas e mensuráveis. Por exemplo, \"economizar R$50 por mês\" ou \"reduzir os gastos com alimentação em 10%\".\n\n**2. Redução de Gastos Essenciais:**\n\n* **Moradia:**\n    * **Divida o aluguel:** Se possível, divida o aluguel com outras pessoas para reduzir o valor do aluguel.\n    * **Negocie:** Tente negociar um valor de aluguel mais baixo com o proprietário.\n    * **Considere morar em um lugar mais barato:** Se a situação for muito difícil, explore"
+    },
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "Vale a pena fazer empréstimo pra pagar dívida?",
+      "response": "A decisão de fazer um empréstimo para pagar dívidas é complexa e depende muito da sua situação financeira e dos seus objetivos. Não existe uma resposta única para essa pergunta, mas vamos analisar os prós e contras para te ajudar a tomar a melhor decisão:\n\n**Quando fazer um empréstimo para pagar dívidas pode ser uma boa ideia:**\n\n* **Dívidas com juros altos:** Se você tem dívidas com juros altos (como cartão de crédito, cheque especial ou empréstimos pessoais com taxas elevadas), o pagamento dessas dívidas pode ser mais vantajoso do que apenas acumular mais juros.\n* **Dívidas com prazos longos:** Empréstimos com prazos longos (como financiamentos de carro ou casa) podem ser mais vantajosos do que dívidas com prazos curtos, pois você paga menos juros ao longo do tempo.\n* **Necessidade de um impulso financeiro:** Se você precisa de um impulso para quitar dívidas, um empréstimo pode ser uma forma de acelerar o processo.\n* **Melhora no seu score de crédito:** Pagar suas dívidas em dia pode melhorar seu score de crédito, o que pode ser importante para obter melhores condições em empréstimos no futuro.\n* **Aumento da renda:** Se você tiver uma fonte de renda extra ou um aumento salarial, pode usar esse dinheiro para quitar dívidas e liberar mais recursos para investimentos"
+    },
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "O que é juros compostos?",
+      "response": "Juros compostos são um tipo de juros que crescem sobre o valor inicial (o principal) e sobre os juros acumulados de períodos anteriores. Em outras palavras, o juro sobre o juro é o que realmente impulsiona o crescimento dos seus investimentos.\n\n**Como funciona:**\n\n1. **Principal:** É o valor inicial investido.\n2. **Juros do Principal:** São os juros gerados com base no valor do principal.\n3. **Juros Compostos:** São calculados sobre o principal e os juros acumulados dos períodos anteriores. Isso significa que os juros do período anterior são adicionados ao principal e ao juros acumulado, e o processo se repete.\n\n**Exemplo:**\n\nImagine que você investe R$ 1.000 a uma taxa de juros compostos de 10% ao ano.\n\n* **Primeiro ano:**\n    * Juros: R$ 1.000 * 10% = R$ 100\n    * Valor final: R$ 1.000 + R$ 100 = R$ 1.100\n* **Segundo ano:**\n    * Juros: R$ 1.100 * 10% = R$ 110\n    * Valor final: R$ 1.100 + R$ 110"
+    },
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "Como começar a investir com R$ 50?",
+      "response": "Começar a investir com R$ 50 pode parecer um desafio, mas é totalmente possível começar a construir um futuro financeiro com um investimento pequeno. Aqui está um guia passo a passo para te ajudar:\n\n**1. Educação Financeira Básica (Antes de Investir):**\n\n* **Entenda seus Objetivos:** O que você quer alcançar com seus investimentos? Aposentadoria, comprar um carro, viajar, ou simplesmente ter mais segurança financeira? Ter um objetivo claro te ajudará a escolher os melhores investimentos.\n* **Conheça seu Perfil de Risco:** Você é conservador, moderado ou arrojado? Isso influencia a escolha dos investimentos.\n    * **Conservador:** Prioriza a segurança e a preservação do dinheiro.\n    * **Moderado:** Busca um equilíbrio entre segurança e retorno.\n    * **Arrojado:** Está disposto a correr mais riscos em busca de maiores retornos.\n* **Pesquise sobre os Tipos de Investimentos:**\n    * **Renda Fixa:** Títulos públicos (Tesouro Direto), CDBs, LCIs, LCAs. Geralmente mais seguros, com retornos mais baixos.\n    * **Renda Variável:** Ações, Fundos Imobiliários (FIIs), ETFs. Potencial de retorno maior, mas também maior risco.\n\n**2. Escolhendo a Plataforma de Investimento:**\n\n* **Corret"
+    },
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "Qual a diferença entre poupar e investir?",
+      "response": "A diferença entre poupar e investir é fundamental para alcançar seus objetivos financeiros. Vamos detalhar cada um:\n\n**1. Poupar:**\n\n* **O que é:** Poupar é o ato de guardar dinheiro com o objetivo de ter à disposição no futuro. É uma forma de criar uma reserva financeira para emergências, objetivos de curto prazo (como uma viagem ou um curso) ou para alcançar metas de longo prazo (como a compra de um imóvel ou a aposentadoria).\n* **Como funciona:** Você destina uma parte do seu salário ou renda para uma conta poupança ou outro investimento de baixo risco.\n* **Objetivo:** Ter dinheiro disponível para imprevistos ou para alcançar objetivos futuros.\n* **Risco:** Geralmente, o risco é baixo, pois o dinheiro está guardado e não se espera que ele se valorize significativamente.\n* **Prazo:** O prazo de investimento é geralmente curto, geralmente de alguns meses a alguns anos.\n\n**2. Investir:**\n\n* **O que é:** Investir é colocar seu dinheiro em algo com a expectativa de que ele gere mais dinheiro no futuro. Isso pode ser ações, títulos, fundos imobiliários, imóveis, ou até mesmo em outros tipos de ativos.\n* **Como funciona:** Você aloca seu dinheiro em diferentes ativos, buscando retornos maiores do que a poupança.\n* **Objetivo:** Aumentar o patrimônio ao longo do tempo"
+    },
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "O que é reserva de emergência e por que é importante?",
+      "response": "## Reserva de Emergência: Protegendo o Futuro com Dinheiro\n\nA reserva de emergência é um fundo financeiro destinado a cobrir imprevistos e situações inesperadas que podem surgir em sua vida. É um investimento crucial para garantir sua segurança e tranquilidade, evitando dívidas e estresse financeiro em momentos de dificuldade.\n\n**O que é uma Reserva de Emergência?**\n\nÉ um valor disponível em uma conta de fácil acesso, como uma conta poupança, CDB de liquidez diária ou até mesmo em uma conta de investimento de baixo risco. O ideal é que seja o equivalente a 6 a 12 meses de suas despesas básicas de vida (aluguel, alimentação, contas, etc.).\n\n**Por que é importante ter uma reserva de emergência?**\n\n* **Proteção contra imprevistos:** A vida é cheia de surpresas: doenças, acidentes, perda de emprego, problemas com o carro, reparos inesperados em casa, etc. Uma reserva de emergência te dá a segurança de lidar com essas situações sem precisar recorrer a empréstimos ou dívidas.\n* **Evitar dívidas:** Em situações de emergência, a falta de dinheiro pode levar a dívidas de cartão de crédito, empréstimos ou até mesmo a um endividamento que comprometa seu futuro financeiro. Ter uma reserva te protege dessa possibilidade.\n* **Reduzir o estresse:** Saber que"
+    },
+    {
+      "stage": "base",
+      "tipo": "formal",
+      "question": "Como fazer um orçamento mensal simples?",
+      "response": "Criar um orçamento mensal simples pode parecer desafiador no início, mas é uma ferramenta poderosa para controlar suas finanças e alcançar seus objetivos. Aqui está um guia passo a passo para te ajudar:\n\n**1. Calcule sua Renda Mensal:**\n\n*   **Renda Fixa:** Some todas as suas fontes de renda mensal regulares, como salário, pensão, aluguel, etc.\n*   **Renda Variável:** Se você tem renda variável (freelance, comissões, etc.), estime uma média dos últimos meses para ter uma ideia do que pode esperar.\n\n**2. Liste seus Gastos:**\n\n*   **Gastos Fixos:** São aqueles que têm um valor constante ou previsível todo mês. Exemplos:\n    *   Aluguel/Financiamento\n    *   Condomínio\n    *   Mensalidades (escola, academia, etc.)\n    *   Internet, TV a cabo, telefone\n    *   Plano de saúde\n    *   Seguros\n*   **Gastos Variáveis:** São aqueles que mudam de valor a cada mês. Exemplos:\n    *   Alimentação (supermercado, restaurantes)\n    *   Transporte (combustível, transporte público, aplicativos)\n    *   Lazer (cinema, shows, viagens)\n    *   Roupas e calçados\n    *   Cuidados pessoais ("
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "Mano, o que é essa tal de inflação? Tá comendo minha grana?",
+      "response": "E aí, beleza? 😊\n\nA inflação é um dos temas mais discutidos e preocupantes da economia atual. Basicamente, é o **aumento generalizado e contínuo dos preços de bens e serviços** em uma economia. Em outras palavras, o que antes você gastava R$10, agora custa R$11 ou R$12.\n\n**Como funciona?**\n\nA inflação acontece quando a quantidade de dinheiro disponível para comprar bens e serviços aumenta mais rápido do que a produção deles. Isso pode acontecer por diversos motivos, como:\n\n*   **Aumento da demanda:** Se as pessoas querem comprar mais, e a produção não acompanha, os preços sobem.\n*   **Aumento dos custos:** Se os produtores têm que pagar mais por matérias-primas, energia, salários, etc., eles repassam esses custos para o consumidor.\n*   **Emissão excessiva de moeda:** Se o governo imprime muito dinheiro sem que haja um aumento correspondente na produção, a inflação pode acontecer.\n\n**Quais os efeitos da inflação?**\n\n*   **Redução do poder de compra:** Seu dinheiro compra menos coisas.\n*   **Dificuldade de planejamento financeiro:** Se você sabe que os preços vão subir, fica mais difícil planejar o futuro.\n*   **Desconfiança na economia:** A inflação alta pode gerar incerteza e medo.\n*   **"
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "Parceiro, como faz pra guardar uns trocado ganhando um salário mínimo?",
+      "response": "Entendo sua preocupação em guardar dinheiro, especialmente com um salário mínimo. É um desafio, mas existem algumas opções que podem te ajudar a alcançar seus objetivos financeiros. Aqui estão algumas alternativas, com seus prós e contras:\n\n**1. Poupança:**\n\n*   **Como funciona:** A forma mais tradicional e segura de guardar dinheiro. Você deposita o valor que receber e o dinheiro rende ao longo do tempo.\n*   **Prós:** Simples, fácil de entender, segura (dependendo da instituição).\n*   **Contras:** Taxas de juros geralmente baixas, o dinheiro pode perder valor com a inflação.\n*   **Dica:** Procure por contas digitais com boa taxa de juros e que ofereçam rendimento automático.\n\n**2. Tesouro Direto:**\n\n*   **Como funciona:** Você empresta dinheiro ao governo e recebe juros por isso. Existem diferentes tipos de títulos, com diferentes prazos e taxas.\n*   **Prós:** Segurança (o dinheiro é protegido pelo Fundo Garantidor de Créditos), rendimento previsível, possibilidade de investir em diferentes prazos.\n*   **Contras:** Pode ser um pouco mais complexo para iniciantes, taxas podem ser mais altas que a poupança.\n*   **Onde investir:** [https://www.tesourodireto.com.br/](https://www.tesourodireto"
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "Fica ligado, vale a pena pegar empréstimo pra quitar uma dívida?",
+      "response": "Essa é uma pergunta complexa e que gera muita discussão. A decisão de pegar empréstimo para quitar uma dívida é um **compromisso sério** que exige muita análise e planejamento. Não existe uma resposta única e \"certa\" para todos, pois depende de diversos fatores individuais e da situação financeira de cada um.\n\n**Vamos analisar os prós e contras, e os pontos importantes a serem considerados:**\n\n**Prós:**\n\n*   **Alívio imediato:** A principal vantagem é a possibilidade de quitar uma dívida com juros altos, o que pode trazer alívio financeiro imediato.\n*   **Melhora do score de crédito:** O pagamento de um empréstimo, mesmo que com juros, pode melhorar seu score de crédito, o que pode ser útil para futuras negociações.\n*   **Possibilidade de renegociação:** Em alguns casos, o empréstimo pode ser usado como base para renegociar a dívida com o credor original, buscando melhores condições.\n\n**Contras:**\n\n*   **Juros:** É fundamental entender que empréstimos com garantia (como o imóvel como garantia) geralmente têm juros mais altos do que os empréstimos sem garantia.\n*   **Risco de endividamento:** Se a situação financeira estiver precária, pegar empréstimo pode levar a um ciclo de endividamento, tornando a situação ainda mais difícil de sair.\n*"
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "Passa a visão sobre juros compostos, como funciona essa fita?",
+      "response": "## Juros Compostos: Uma Visão Detalhada\n\nJuros compostos são um dos conceitos mais fascinantes e poderosos da finanças. Eles representam um crescimento dos juros sobre os juros, criando um efeito multiplicador que pode gerar retornos significativamente maiores do que os juros simples. Vamos explorar como eles funcionam e como a \"fita\" (ou curva de crescimento) se encaixa nesse processo.\n\n**1. Como os Juros Compostos Funcionam?**\n\n* **O Princípio:** A principal diferença entre juros simples e compostos é que os juros compostos são calculados sobre o valor inicial (o capital inicial) *e* sobre os juros acumulados de períodos anteriores.\n* **A Fórmula:** A fórmula básica para calcular juros compostos é:\n   *  A = P (1 + r/n)^(nt)\n   *  Onde:\n      *  A = Valor final (o montante após o período)\n      *  P = Capital inicial\n      *  r = Taxa de juros por período\n      *  n = Número de vezes que o juro é composto por período\n      *  t = Número de períodos\n\n* **O Crescimento Exponencial:** A chave para entender a força dos juros compostos é a exponencialidade do crescimento.  A cada período, os juros compostos são multiplicados pelos juros acumul"
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "Mano, dá pra começar a investir com 50 conto? Como faz?",
+      "response": "E aí, beleza? Sim, é totalmente possível começar a investir com 50 conto! É um ótimo começo e você pode começar a construir seu futuro financeiro com um pouco de planejamento e conhecimento. Vamos lá:\n\n**1. Entenda o que é Investir:**\n\n*   **O que é:** Investir é colocar seu dinheiro em algo com a expectativa de que ele gere mais dinheiro no futuro.\n*   **Tipos de Investimentos:** Existem diversas opções, cada uma com um nível de risco e potencial de retorno diferente. Alguns exemplos:\n    *   **Tesouro Direto:** Títulos públicos emitidos pelo governo. É considerado um dos investimentos mais seguros.\n    *   **Fundos de Investimento:** Carteiras de investimentos gerenciadas por profissionais.\n    *   **Ações:** Comprar frações do capital de empresas.\n    *   **Criptomoedas:** Moedas digitais descentralizadas (alto risco).\n\n**2. Como Começar com 50 Contas:**\n\n*   **Tesouro Direto:** É uma ótima opção para iniciantes. Você pode começar com um saldo pequeno e aumentar gradualmente.\n    *   **Tesouro Selic:** É o título mais popular, com a taxa de juros atrelada à taxa Selic (taxa básica de juros do Brasil). É seguro e fácil de entender.\n    *   **Tesouro IPCA+:** Protege"
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "Qual a diferença entre guardar grana e investir? Me explica na moral.",
+      "response": "Com certeza! Vamos entender a diferença entre guardar dinheiro e investir, tudo isso de forma que você possa tomar decisões mais conscientes.\n\n**Guardar Dinheiro: A Segurança do Presente**\n\nImagine que você tem um cofrinho e quer guardar dinheiro para uma emergência, para um fim de viagem ou para uma despesa inesperada. Guardar dinheiro é como colocar o dinheiro em um cofrinho. É uma medida de segurança, uma forma de ter uma reserva para imprevistos.\n\n*   **Objetivo:** Proteger o dinheiro de perdas e garantir que você tenha recursos para lidar com situações inesperadas.\n*   **Risco:** É a opção mais segura, pois o dinheiro não tem potencial de gerar mais rendimentos.\n*   **Retorno:** O retorno é mínimo, geralmente em forma de juros baixos ou nenhum.\n\n**Investir: A Chance de Crescer**\n\nAgora, vamos falar de investir. Investir é como plantar uma semente e esperar que ela cresça e dê frutos. É como colocar o dinheiro em algo que tem potencial para aumentar de valor ao longo do tempo.\n\n*   **Objetivo:** Aumentar o valor do seu dinheiro para que você possa alcançar seus objetivos financeiros de longo prazo, como a aposentadoria, a compra de um imóvel ou a educação dos filhos.\n*   **Risco:** É uma opção com maior potencial de retorno, mas também com maior risco. O valor"
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "O que é reserva de emergência? Por que o pessoal da quebrada precisa disso?",
+      "response": "A reserva de emergência é um tipo de investimento que visa proteger financeiramente você e sua família em situações inesperadas, como perda de emprego, doença, acidentes, desastres naturais ou problemas financeiros. É uma forma de ter uma \"bolsa de segurança\" para lidar com imprevistos sem precisar recorrer a empréstimos ou dívidas.\n\n**Como funciona:**\n\n*   **Depósitos:** A reserva de emergência é geralmente mantida em um investimento de baixo risco, como CDBs, Tesouro Direto ou fundos de renda fixa.\n*   **Objetivo:** O objetivo é que, quando a emergência acontecer, você tenha o dinheiro para cobrir os custos e despesas, sem precisar recorrer a empréstimos ou vender ativos de valor.\n\n**Por que a galera da quebrada precisa de reserva de emergência?**\n\nA percepção de que a reserva de emergência é importante para a comunidade da quebrada é um tema complexo e multifacetado, com raízes em diversos fatores:\n\n1.  **Contexto Social e Econômico:** A realidade da vida na quebrada é marcada por instabilidade, violência, falta de oportunidades e desigualdade social. A reserva de emergência pode ser vista como uma forma de construir uma base financeira mais sólida para enfrentar esses desafios.\n2.  **Redes de Apoio:** A comunidade da quebrada frequentemente se apoia em redes de confiança e amizades, que"
+    },
+    {
+      "stage": "base",
+      "tipo": "periferia",
+      "question": "Como organizar a grana do mês de um jeito simples? Tô perdido, mano.",
+      "response": "Cara, entendo completamente! Organizar a grana do mês pode ser um desafio, mas com um plano e um pouco de disciplina, você consegue! Não se preocupe, vamos lá. Vou te dar algumas dicas simples e práticas para te ajudar a organizar sua grana:\n\n**1. Anote Tudo:**\n\n*   **Extratos bancários:** Comece anotando todos os seus extratos bancários, para ter uma visão clara de onde seu dinheiro está indo.\n*   **Contas:** Anote todas as suas contas (cartão de crédito, financiamentos, etc.) para ter uma média de gastos.\n*   **Planilha:** Crie uma planilha no Excel ou Google Sheets. Anote cada gasto, por menor que seja, para ter uma visão clara de onde você está gastando.\n\n**2. Crie um Orçamento:**\n\n*   **Defina metas:** O que você quer alcançar com o seu dinheiro? (Ex: pagar dívidas, fazer uma viagem, investir, etc.)\n*   **Categorize os gastos:** Divida seus gastos em categorias:\n    *   **Essenciais:** Aluguel/financiamento, contas de água, luz, gás, supermercado, transporte, saúde.\n    *   **Não Essenciais:** Lazer, restaurantes, delivery, roupas, etc.\n    *   **Investimentos:** Poupança, investimentos de longo prazo.\n*   **Estabele"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "O que é inflação e como ela afeta meu dinheiro?",
+      "response": "## Inflação: O que é e como afeta seu dinheiro\n\n**O que é inflação?**\n\nInflação é o aumento generalizado e contínuo dos preços de bens e serviços em uma economia durante um período de tempo. Em outras palavras, você precisa gastar mais dinheiro para comprar a mesma quantidade de coisas que antes. É como se o dinheiro perdesse um pouco de valor ao longo do tempo.\n\n**Como a inflação é medida?**\n\nA inflação é medida por índices de preços, como o Índice Nacional de Preços ao Consumidor Amplo (IPCA) no Brasil. Esses índices acompanham a variação dos preços de uma cesta de produtos e serviços consumidos pelas famílias.\n\n**Como a inflação afeta seu dinheiro?**\n\nA inflação pode ter diversos impactos no seu dinheiro, tanto positivos quanto negativos, dependendo da sua situação financeira e da sua tolerância ao risco. Aqui estão alguns dos principais efeitos:\n\n**1. Perda do poder de compra:**\n\n* **O que acontece:** A inflação reduz o valor do seu dinheiro ao longo do tempo. Se os preços de seus produtos e serviços aumentam, você precisa de mais dinheiro para comprar a mesma quantidade.\n* **Impacto:** Sua renda disponível diminui, e você pode ter menos dinheiro para poupar, investir ou gastar.\n\n**2. Redução do padrão de vida:**\n\n* **O que acontece:** A inflação"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "Como economizar ganhando um salário mínimo?",
+      "response": "Economizar um salário mínimo é um desafio significativo, mas não impossível. Exige disciplina, planejamento e, muitas vezes, sacrifícios. Aqui estão algumas estratégias que você pode implementar para começar a economizar, mesmo com um salário baixo:\n\n**1. Monitoramento e Planejamento:**\n\n* **Registre seus gastos:** O primeiro passo é saber para onde seu dinheiro está indo. Use um aplicativo de controle financeiro (Mobills, Organizze, Minhas Finanças), planilha ou caderno para anotar cada gasto por pelo menos um mês.\n* **Categorize seus gastos:** Divida seus gastos em categorias como moradia, alimentação, transporte, contas, lazer, etc. Isso ajuda a identificar onde você pode cortar.\n* **Defina metas de economia:** Estabeleça metas realistas e mensuráveis. Por exemplo, \"Economizar R$50 por mês para guardar\".\n\n**2. Reduzindo Despesas:**\n\n* **Alimentação:**\n    * **Cozinhe em casa:** Comer fora é caro. Prepare suas próprias refeições.\n    * **Planeje as refeições:** Faça um cardápio semanal e compre apenas o que você precisa.\n    * **Leve marmita:** Se você trabalha em um lugar que permite, leve sua própria marmita para o trabalho.\n    * **Evite desperdício:** Use as sobras para criar novas refeições.\n    * **Pesqu"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "Vale a pena fazer empréstimo pra pagar dívida?",
+      "response": "A decisão de fazer um empréstimo para pagar dívidas é complexa e depende muito da sua situação financeira individual. Não existe uma resposta única para essa pergunta, pois o ideal é analisar cuidadosamente os prós e contras para ver se é a melhor opção para você.\n\n**Quando fazer um empréstimo para pagar dívidas pode ser uma boa ideia:**\n\n*   **Dívidas com juros altos:** Se você tem dívidas com juros altos, como cartão de crédito ou cheque especial, pagar uma parte delas com um empréstimo pode ser mais vantajoso do que simplesmente parcelar as dívidas.\n*   **Dívidas com prazos longos:** Em dívidas com prazos longos, como financiamento de carro ou imóvel, o valor do empréstimo pode ser menor do que o valor das parcelas, e o pagamento pode ser mais fácil ao longo do tempo.\n*   **Necessidade de um impulso financeiro:** Se você precisa de dinheiro para quitar dívidas ou investir em outras áreas da sua vida, um empréstimo pode ser uma solução rápida.\n*   **Melhora no score de crédito:** Pagar dívidas em dia pode melhorar seu score de crédito, o que pode facilitar a obtenção de crédito no futuro.\n\n**Quando não é recomendado fazer um empréstimo para pagar dívidas:**\n\n*   **Dívidas com juros baixos:** Se você tem dívidas com juros baix"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "O que é juros compostos?",
+      "response": "Juros compostos são uma forma de juros que crescem sobre o valor inicial, ou seja, o que você investe ou empresta hoje, continua crescendo ao longo do tempo. É diferente dos juros simples, que são calculados apenas sobre o valor inicial.\n\n**Como funciona o juros compostos?**\n\nImagine que você investe R$ 1.000 a uma taxa de juros compostos de 10% ao ano. Após um ano, você terá:\n\n*   **Juros sobre o capital inicial:** R$ 1.000 * 10% = R$ 100\n*   **Juros sobre o capital acumulado:** R$ 1.000 + R$ 100 = R$ 1.100\n\nNo segundo ano, os juros sobre o capital acumulado serão calculados sobre R$ 1.100, e assim por diante.\n\n**Principais características do juros compostos:**\n\n*   **Crescimento exponencial:** A cada ano, os juros são adicionados ao capital inicial, gerando um crescimento mais rápido do que com juros simples.\n*   **Valor final maior:** Com o tempo, o valor total investido ou emprestado aumenta significativamente devido ao efeito composto.\n*   **Maior rentabilidade:** Em geral, juros compostos oferecem uma rentabilidade maior do"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "Como começar a investir com R$ 50?",
+      "response": "Começar a investir com R$ 50 pode parecer um desafio, mas é totalmente possível começar a construir um futuro financeiro mais sólido! Aqui está um guia passo a passo para te ajudar a começar, considerando que você tem um valor inicial limitado:\n\n**1. Educação Financeira Básica (Antes de Investir):**\n\n* **Entenda seus objetivos:** O que você quer alcançar com seus investimentos? Comprar um carro? Fazer uma viagem? Aposentar-se mais cedo? Ter uma reserva de emergência? Definir seus objetivos te ajudará a escolher os melhores investimentos.\n* **Conheça seu perfil de risco:** Você é conservador, moderado ou arrojado? Isso vai influenciar na sua escolha de investimentos.\n    * **Conservador:** Prefere investimentos mais seguros, mesmo que o retorno seja menor.\n    * **Moderado:** Aceita um pouco mais de risco para obter retornos maiores.\n    * **Arrojado:** Está disposto a correr mais riscos em busca de retornos mais altos.\n* **Pesquise sobre os diferentes tipos de investimentos:**\n    * **Tesouro Direto:** Títulos públicos emitidos pelo governo federal. É considerado um dos investimentos mais seguros.\n    * **Fundos de Renda Fixa:** Investem em títulos de renda fixa, como CDBs, LCIs e LCAs.\n    * **Fundos Multimercado:** Combinam diferentes"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "Qual a diferença entre poupar e investir?",
+      "response": "A diferença entre poupar e investir é fundamental para alcançar seus objetivos financeiros. Vamos detalhar cada um:\n\n**Poupar:**\n\n*   **O que é:** É o ato de guardar dinheiro para o futuro. É uma forma de criar uma reserva financeira para emergências, objetivos de curto prazo (como uma viagem ou um curso) ou para alcançar metas financeiras mais longas.\n*   **Como funciona:** Você transfere uma parte do seu dinheiro para uma conta poupança ou outro investimento de baixo risco, sem esperar que o dinheiro trabalhe para você.\n*   **Objetivo:** Ter dinheiro disponível para imprevistos ou para realizar objetivos futuros.\n*   **Risco:** É considerado de baixo risco, pois o dinheiro não é emprestado ou negociado.\n*   **Retorno:** O retorno é geralmente baixo, geralmente em forma de juros ou inflação.\n\n**Investir:**\n\n*   **O que é:** É colocar seu dinheiro em ativos que têm o potencial de gerar mais dinheiro no futuro, em vez de apenas guardar dinheiro.\n*   **Como funciona:** Você compra ativos como ações, títulos, fundos imobiliários, etc., e espera que eles se valorizem ao longo do tempo, gerando lucro.\n*   **Objetivo:** Aumentar o seu patrimônio financeiro a longo prazo.\n*   **Risco:** O risco é maior do que poupar, pois o valor do"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "O que é reserva de emergência e por que é importante?",
+      "response": "## Reserva de Emergência: O Que É e Por Que É Importante?\n\nA reserva de emergência é um fundo financeiro destinado a cobrir imprevistos e situações inesperadas que podem surgir em sua vida. É um investimento em sua segurança e tranquilidade, permitindo que você se adapte a desafios como perda de emprego, problemas de saúde, acidentes, despesas inesperadas com manutenção do carro ou casa, ou até mesmo a necessidade de se mudar para uma cidade diferente.\n\n**O que inclui uma reserva de emergência?**\n\n*   **Saldo em conta poupança:** É a forma mais básica e acessível, ideal para começar.\n*   **Tesouro Selic:** Títulos públicos com alta liquidez e baixo risco, ideais para resgate rápido.\n*   **Fundos DI:** Fundos de investimento que acompanham a taxa Selic, oferecendo boa rentabilidade.\n*   **Certificados de Depósito Bancário (CDBs) e Letras de Crédito Imobiliário (LCIs):**  Investimentos de renda fixa com boa rentabilidade e liquidez.\n*   **Fundos de Renda Fixa:**  Diversificam seus investimentos em diferentes tipos de títulos.\n*   **Investimentos mais arriscados (com cautela):**  Em alguns casos, podem ser considerados, mas exigem mais conhecimento e acompanhamento.\n\n**Por que é importante ter"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "formal",
+      "question": "Como fazer um orçamento mensal simples?",
+      "response": "Criar um orçamento mensal simples pode parecer complicado no início, mas é uma ferramenta poderosa para controlar suas finanças e alcançar seus objetivos. Aqui está um guia passo a passo para te ajudar:\n\n**1. Calcule sua Renda Mensal:**\n\n*   **Salário Líquido:** Comece listando o valor que você recebe após os descontos (impostos, contribuições, etc.).\n*   **Outras Fontes de Renda:** Inclua qualquer outra renda que você tenha, como freelancers, aluguel de imóveis, pensões, etc.\n*   **Renda Variável:** Se sua renda varia, calcule uma média dos últimos meses para ter uma estimativa mais realista.\n\n**2. Liste seus Gastos:**\n\n*   **Gastos Fixos:** São aqueles que têm um valor constante ou previsível todo mês. Exemplos:\n    *   Aluguel ou prestação da casa\n    *   Condomínio\n    *   Financiamentos (carro, moto, etc.)\n    *   Mensalidades (escola, academia, etc.)\n    *   Planos de saúde\n    *   Seguros\n*   **Gastos Variáveis:** São aqueles que mudam de valor a cada mês. Exemplos:\n    *   Alimentação (supermercado, restaurantes)\n    *   Transporte (combustível, transporte público, aplicativos)\n    *"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "Mano, o que é essa tal de inflação? Tá comendo minha grana?",
+      "response": "E aí, beleza? Relaxa, a inflação é um assunto que pode ser meio complicado, mas vou tentar explicar de um jeito fácil.\n\n**Em resumo, inflação é quando o preço das coisas aumenta.** É como se o dinheiro perdesse um pouco do seu poder de compra.\n\n**Como acontece?**\n\nExistem várias razões pelas quais a inflação pode acontecer:\n\n*   **Mais dinheiro em circulação:** Se a quantidade de dinheiro na economia aumenta muito rápido, mas a quantidade de bens e serviços não acompanha, o preço dos produtos e serviços tende a subir.\n*   **Custos mais altos:** Se os custos de produção das empresas aumentam (como matérias-primas, energia, salários), elas precisam aumentar os preços para manter suas margens de lucro.\n*   **Demanda alta:** Se as pessoas querem comprar mais, mas a oferta de bens e serviços não aumenta o suficiente, os preços tendem a subir.\n\n**E por que isso é um problema?**\n\n*   **Perda do poder de compra:** Se os seus gastos aumentam, mas o seu salário não acompanha, você precisa gastar mais dinheiro para comprar as mesmas coisas.\n*   **Dificuldade para poupar:** Se os preços estão subindo, é mais difícil guardar dinheiro para o futuro.\n*   **Impacto na economia:** A inflação pode afetar o crescimento econômico, a economia real e até mesmo"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "Parceiro, como faz pra guardar uns trocado ganhando um salário mínimo?",
+      "response": "Entendo sua preocupação em guardar dinheiro, especialmente quando você está ganhando um salário mínimo. É um desafio, mas existem algumas opções que podem te ajudar a alcançar seus objetivos financeiros. Aqui estão algumas alternativas e dicas:\n\n**1. Orçamento e Controle de Gastos:**\n\n*   **Anote tudo:** Comece a registrar cada gasto que você faz, por menor que seja. Use um aplicativo de celular, planilha ou caderno. Isso te dará uma visão clara para onde seu dinheiro está indo.\n*   **Categorize seus gastos:** Separe seus gastos em categorias como moradia, alimentação, transporte, lazer, etc. Isso te ajudará a identificar onde você pode cortar gastos.\n*   **Defina metas:** Estabeleça metas de economia realistas, como guardar X reais por mês. Isso te dará motivação para seguir em frente.\n\n**2. Economia Inteligente:**\n\n*   **Reduza gastos desnecessários:** Analise seus gastos e veja onde você pode cortar. Isso pode incluir assinaturas que não usa, comer fora com frequência, compras por impulso, etc.\n*   **Cozinhe em casa:** Comer fora é caro. Cozinhar em casa é muito mais econômico e saudável.\n*   **Compare preços:** Antes de comprar qualquer coisa, pesquise preços em diferentes lojas e sites.\n*   **Use cupons e programas de fidelidade:** Aproveite descontos e promoções para econom"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "Fica ligado, vale a pena pegar empréstimo pra quitar uma dívida?",
+      "response": "Essa é uma pergunta complexa e que gera muita discussão. A decisão de pegar empréstimo para quitar uma dívida é uma escolha que exige muita análise e cuidado, e não há uma resposta única que sirva para todos. Vamos explorar os prós e contras, bem como os aspectos importantes a serem considerados:\n\n**Por que algumas pessoas podem considerar isso:**\n\n*   **Redução de juros:** Em alguns casos, o empréstimo pode ser mais barato do que as taxas de juros que você pagaria em uma dívida pessoal tradicional.\n*   **Acesso a recursos:** Em situações de emergência ou para quitar dívidas maiores, pode ser uma alternativa para ter acesso a dinheiro que você não teria de outra forma.\n*   **Melhora na saúde financeira:** Se a dívida é um peso grande e está afetando sua vida, quitar pode trazer alívio e permitir que você se concentre em outras áreas.\n\n**Riscos e considerações importantes:**\n\n*   **Custos do empréstimo:** Além do juro, você terá que pagar taxas de administração, seguros e outras tarifas.\n*   **Impacto na sua pontuação de crédito:** Pegar empréstimo pode reduzir seu score de crédito, o que pode dificultar a obtenção de crédito no futuro.\n*   **Risco de endividamento:** Se você não conseguir pagar o empréstimo, poderá se endividar ainda mais, criando"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "Passa a visão sobre juros compostos, como funciona essa fita?",
+      "response": "## Juros Compostos: Uma Visão Detalhada e a Fita que os Mantém em Movimento\n\nJuros compostos são um dos conceitos mais fascinantes e poderosos do mundo financeiro. Eles representam um crescimento dos seus investimentos que não é apenas uma simples acumulação de dinheiro, mas sim uma **relação de juros que se acumula sobre si mesmo**. Em vez de receber apenas o rendimento do investimento no momento da aplicação, o juro composto é pago sobre o juro anterior, criando um efeito multiplicador que pode gerar retornos significativamente maiores ao longo do tempo.\n\n**Como Funciona a Relação de Juros Compostos?**\n\nImagine que você investe R$ 1.000 a uma taxa de juros compostos de 10% ao ano.\n\n1. **Primeiro Ano:** Você recebe R$ 100 de juros.\n2. **Segundo Ano:** Você recebe R$ 100 + R$ 100 * 10% = R$ 200 de juros.\n3. **Terceiro Ano:** Você recebe R$ 200 + R$ 200 * 10% = R$ 400 de juros.\n4. **E assim por diante...**\n\nA chave é que cada juro composto é adicionado ao seu capital inicial, e o processo se rep"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "Mano, dá pra começar a investir com 50 conto? Como faz?",
+      "response": "E aí, beleza? Sim, é totalmente possível começar a investir com 50 conto, mas é importante entender que vai exigir um pouco de planejamento e disciplina. Aqui está um guia completo para te ajudar:\n\n**1. Entenda o que é Investir e os Riscos:**\n\n*   **Investir** é colocar seu dinheiro em algo com a expectativa de que ele possa render mais dinheiro do que você investiu.\n*   **Riscos:** Todo investimento envolve risco. O valor do seu dinheiro pode diminuir, e você pode perder parte ou até mesmo todo o seu investimento.\n*   **Diversificação:** É fundamental não colocar todos os seus 50 contos em um único investimento. A diversificação é a chave para reduzir os riscos.\n\n**2. Opções de Investimento para Pouco Dinheiro:**\n\n*   **Tesouro Direto (Tesouro Selic):** É uma das opções mais seguras para começar. O Tesouro Selic é um título público emitido pelo governo federal, que rende automático uma taxa prefixada (que você pode escolher) e uma taxa pós-fixada (que acompanha a taxa Selic). É uma ótima opção para quem busca segurança e liquidez (poder pegar o dinheiro quando precisar).\n    *   **Quanto:** Você pode começar com R$50,00 e investir a partir de R$10,00.\n    *   **Onde:** No site do"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "Qual a diferença entre guardar grana e investir? Me explica na moral.",
+      "response": "Olá! Vamos entender a diferença entre guardar dinheiro e investir, tudo isso de forma que você possa tomar decisões mais conscientes.\n\n**Guardar dinheiro:**\n\nÉ como guardar um cofrinho para um presente que você vai fazer no futuro. É uma forma de ter segurança e tranquilidade, mas não gera nenhum retorno financeiro imediato. Você pode usar esse dinheiro para:\n\n*   **Imprevistos:** Uma emergência inesperada, como um conserto no carro ou um problema de saúde.\n*   **Metas de curto prazo:** Comprar um eletrodoméstico, fazer uma viagem ou pagar uma conta.\n*   **Poupança:** Para guardar dinheiro que você espera usar em um momento futuro.\n\n**Investir:**\n\nÉ como plantar uma semente que, com o tempo, pode gerar frutos. É uma forma de fazer o seu dinheiro trabalhar para você, buscando um retorno financeiro. Existem diversas formas de investir, como:\n\n*   **Renda fixa:** Tesouro Direto, CDBs, LCIs, LCAs. São investimentos mais seguros e com rentabilidade previsível.\n*   **Renda variável:** Ações, fundos imobiliários, ETFs. São investimentos com maior potencial de retorno, mas também com maior risco.\n\n**A principal diferença:**\n\n*   **Guardar dinheiro** é sobre segurança e reserva para emergências.\n*   **Investir** é sobre fazer o dinheiro trabalhar para você"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "O que é reserva de emergência? Por que o pessoal da quebrada precisa disso?",
+      "response": "A reserva de emergência é um tipo de investimento que visa proteger financeiramente você e sua família em situações inesperadas, como perda de emprego, doença, acidentes ou desastres naturais. É uma forma de criar uma \"bolsa de segurança\" para lidar com imprevistos sem precisar recorrer a empréstimos ou dívidas.\n\n**Como funciona:**\n\n*   **Valor:** O valor ideal da reserva de emergência varia de acordo com a sua situação financeira e o tempo que você deseja ter para resgatar o dinheiro. Geralmente, recomenda-se ter o equivalente a 6 a 12 meses de seus gastos mensais.\n*   **Onde guardar:** A melhor opção é manter o dinheiro em um investimento de baixo risco e alta liquidez, como:\n    *   **Tesouro Direto:** Títulos públicos como o Tesouro Selic são considerados seguros e acessíveis.\n    *   **CDBs e LCIs/LCAs:** Certificados de Depósito Bancário e Letras de Crédito Imobiliário e do Agronegócio, respectivamente, são opções de renda fixa com boa segurança.\n    *   **Fundos de Renda Fixa:** São fundos que investem em títulos de renda fixa, buscando um bom retorno com baixo risco.\n    *   **Conta Poupança:** Embora seja uma opção mais segura, a rentabilidade é baixa e o dinheiro pode não ser suficiente para uma reserva de"
+    },
+    {
+      "stage": "cpt",
+      "tipo": "periferia",
+      "question": "Como organizar a grana do mês de um jeito simples? Tô perdido, mano.",
+      "response": "Cara, entendo completamente! É super comum se sentir perdido com a grana do mês, né? Mas calma, vamos lá, vou te ajudar a organizar tudo de um jeito simples e que funcione pra você. Primeiro, respira fundo, vamos começar do básico.\n\n**1. Anote Tudo:**\n\n*   **Liste todas as suas fontes de renda:** Salário, trabalhos extras, aluguel, pensão, etc. Seja honesto!\n*   **Liste todas as suas despesas:** Divida em categorias para facilitar:\n    *   **Essenciais:** Aluguel/financiamento, contas de água, luz, gás, internet, telefone, alimentação (supermercado), transporte (combustível, transporte público), saúde (plano de saúde, remédios), etc.\n    *   **Não Essenciais:** Lazer (cinema, restaurantes, etc.), roupas, beleza, assinaturas, etc.\n    *   **Dívidas:** Parcelas de empréstimos, cartão de crédito, financiamentos.\n\n**2. Crie um Orçamento:**\n\n*   **Método 50/30/20:** Uma forma simples de começar é dividir sua renda em 50% para gastos essenciais, 30% para gastos não essenciais e 20% para objetivos financeiros (poupança, investimentos, quitar dívidas).\n*   **Planilha:** Se você gosta de"
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "O que é inflação e como ela afeta meu dinheiro?",
+      "response": "A inflação é o aumento generalizado dos preços de bens e serviços em uma economia durante um período de tempo. Isso significa que o dinheiro que você recebe no presente vale menos do que antes, pois os preços estão subindo. Imagine que você ganha R$ 500 por mês, mas depois do aumento da inflação, esses R$ 500 valem menos.  \n\nExistem diferentes tipos de inflação:  \n\n*   **Inflação de demanda:** Ocorre quando a demanda por bens e serviços aumenta mais rapidamente do que a oferta, levando os preços a subir. Por exemplo, se todos querem comprar um carro novo, mas a produção não consegue acompanhar, os preços do carro aumentam.\n*   **Inflação de custo:** Ocorre quando os custos de produção das empresas aumentam, como salários, materiais e energia. Isso pode levar a preços mais altos para os consumidores."
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "Como economizar ganhando um salário mínimo?",
+      "response": ""
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "Vale a pena fazer empréstimo pra pagar dívida?",
+      "response": "A decisão de fazer empréstimo para pagar dívida é complexa e depende muito do seu caso específico."
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "O que é juros compostos?",
+      "response": "Juros compostos são um tipo de juros que se acumulam sobre os juros anteriores. Isso significa que o rendimento do dinheiro que você recebe no mês é mais do que o seu dinheiro original, e o juros do mês anterior também são adicionados ao seu rendimento. Por exemplo, se você ganha R$ 1.200 por mês com juros compostos, e depois você paga R$ 500, o restante de R$ 700 é composto e vai aumentar mais no próximo mês.  \n\nA fórmula para calcular o juros compostos é:  \n\n*   **Juros = Juros anteriores * (1 + taxa de juros) * (tempo restante)**\n\nOnde:\n\n*   **Juros:** O valor do dinheiro que você recebe no mês.\n*   **Taxa de juros:** O percentual do dinheiro que você recebe no mês.\n*   **Tempo restante:** O tempo que o dinheiro fica investido ou emprestado."
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "Como começar a investir com R$ 50?",
+      "response": "Começar a investir com R$ 500 é possível, mas exige disciplina e conhecimento. O ideal é que você comece pequeno, mas não se sinta pressionado a investir mais do que pode. Aqui estão algumas opções e dicas:\n\n**1. Plataformas de Investimento com Pouco Risco:**\n\n*   **Nubank Invest:** Oferece contas com rendimento de 1,20% ao mês, que pode ser um jeito de ganhar um pouco de dinheiro extra. O dinheiro não é investido, mas pode ser usado para outras atividades.  \n    *   **Vantagem:** Facilidade de acesso, sem burocracia.\n    *   **Desvantagem:** Risco baixo, mas não zero."
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "Qual a diferença entre poupar e investir?",
+      "response": "A diferença entre poupar e investir é fundamental para a gestão financeira."
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "O que é reserva de emergência e por que é importante?",
+      "response": "A reserva de emergência é um tipo de investimento que você faz para garantir que você tenha dinheiro disponível em caso de despesas inesperadas. Imagine que você mora com crianças, tem um problema de saúde ou um desacerto financeiro. A reserva de emergência te ajuda a cobrir essas necessidades sem precisar recorrer a empréstimos ou recorrer a familiares.  \n\n**Por que é importante?**  \n\n*   **Cobertura de despesas:**"
+    },
+    {
+      "stage": "sft",
+      "tipo": "formal",
+      "question": "Como fazer um orçamento mensal simples?",
+      "response": "Fazer um orçamento mensal simples é um passo fundamental para controlar suas finanças e evitar dívidas. Aqui está um guia com dicas e exemplos:\n\n**1. Anote Todas as Receitas:**\n\n*   **Salário líquido:** O valor que você recebe no mês, após os descontos de impostos e contribuições.\n*   **Trabalho extra:** Qualquer outra fonte de renda, como bicos, serviços, etc."
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "Mano, o que é essa tal de inflação? Tá comendo minha grana?",
+      "response": ""
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "Parceiro, como faz pra guardar uns trocado ganhando um salário mínimo?",
+      "response": ""
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "Fica ligado, vale a pena pegar empréstimo pra quitar uma dívida?",
+      "response": "A decisão de pegar empréstimo para quitar uma dívida é um passo que exige muita reflexão e planejamento. Não é uma solução que se faz de forma impulsiva, e pode ter consequências negativas. O ideal é que você avalie cuidadosamente se é a melhor opção para sua situação financeira.  \n\nAqui estão alguns pontos importantes a considerar:\n\n**Vantagens:**\n\n*   **Redução de juros:** Em alguns casos, pode ser mais barato que pagar a dívida diretamente, pois o valor do empréstimo é menor que o valor total da dívida."
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "Passa a visão sobre juros compostos, como funciona essa fita?",
+      "response": ""
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "Mano, dá pra começar a investir com 50 conto? Como faz?",
+      "response": ""
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "Qual a diferença entre guardar grana e investir? Me explica na moral.",
+      "response": ""
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "O que é reserva de emergência? Por que o pessoal da quebrada precisa disso?",
+      "response": "A reserva de emergência é um tipo de investimento que você faz para garantir que você e seus familiares estejam protegidos em caso de desastres. O dinheiro que você recebe no mês, como um salário, é colocado em um fundo de reserva que pode ser usado para cobrir despesas inesperadas, como perda de emprego, doença, ou qualquer outro evento que possa causar problemas financeiros.  \n\nPor exemplo, se você ganha R$ 1.200 por mês, pode colocar esse valor em um fundo de reserva que pode ser usado para cobrir despesas como aluguel, contas, ou até mesmo um plano de saúde.  \n\nAí, se um dia você perder o emprego, não precisa passar por dificuldades."
+    },
+    {
+      "stage": "sft",
+      "tipo": "periferia",
+      "question": "Como organizar a grana do mês de um jeito simples? Tô perdido, mano.",
+      "response": ""
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "O que é inflação e como ela afeta meu dinheiro?",
+      "response": "A inflação é o aumento generalizado dos preços de bens e serviços em uma economia durante um período de tempo. Isso significa que o dinheiro que você recebe no presente não vale a mesma que vale no futuro, pois os preços estão subindo. Por exemplo, se um pão custa R$ 50 hoje, mas no ano que vem custa R$ 60, é inflação.  \n\nA inflação não é um fenômeno que acontece de repente, mas pode ser causada por diversos fatores, como: \n\n*   **Aumento da demanda:** Se a economia cresce e as pessoas têm mais grana, mas não há um aumento na oferta de bens e serviços, os preços podem subir.\n*   **Aumento dos custos de produção:** Se os preços do combustível, da energia ou de outras matérias-primas aumentam, os custos de produção das empresas também subem, e elas repassam esses custos para os consumidores."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "Como economizar ganhando um salário mínimo?",
+      "response": ""
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "Vale a pena fazer empréstimo pra pagar dívida?",
+      "response": "A decisão de fazer um empréstimo para pagar dívida é um passo que pode ser calculado com cuidado. O retorno do dinheiro que você recebe no mês, como juros, precisa ser comparado com o custo do dinheiro que você está usando. Se você não tem um plano de como vai usar o dinheiro, pode ser que o empréstimo não vala.  \n\nVou te dar algumas coisas que você precisa considerar:\n\n**1. Por que fazer um empréstimo?**\n\n*   **Redução de juros:** Se você tem dívidas com juros mais altos, como cartão de crédito, um empréstimo pode ser mais barato do que pagar as dívidas com juros mais baixos. Por exemplo, se um empréstimo com juros de 15% no mês paga R$ 100,00 de juros, mas um pagamento de dívida com juros de 10% paga R$ 50,00, o empréstimo pode ser mais vantajoso.\n*   **Flexibilidade:** O dinheiro que você recebe no mês pode ser usado para cobrir despesas, como despesas médicas, despesas de mudança, ou até mesmo para investir."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "O que é juros compostos?",
+      "response": "Juros compostos são um tipo de juros que se acumulam sobre o valor original do dinheiro, e o juros do mesmo dinheiro do mesmo período também são cobrados. Isso significa que o dinheiro que você ganha no ano, como um investimento, também gera juros no ano seguinte, e assim por diante.  \n\nPor exemplo, se você investir R$ 1.000 no banco com um juros de 10% ao ano, o que é cobrado no primeiro ano é 100 reais, e no segundo ano, o que é cobrado é 110 reais. O total de juros que você terá no ano é R$ 210,10.  \n\n**Variações do Juros Compostos:**\n\n*   **Juros Compostos Simples:** O juros são cobrados sobre o valor original do dinheiro, e o juros do mesmo dinheiro do mesmo período também são cobrado. Por exemplo, se você investir R$ 1.000 no banco com um juros de 10% ao ano, o que é cobrado no primeiro ano é 100 reais, e no segundo ano, o que é cobrado é 110 reais. O total de juros que você terá no ano é R$ 210,10.\n*   **Juros Compostos Variáveis:** O juros são cobrados sobre o valor"
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "Como começar a investir com R$ 50?",
+      "response": "Começar a investir com R$ 50 é um desafio, mas é possível. O segredo é entender que **não é preciso ser um investidor de grana pra grana**. O importante é começar a aprender e a não deixar que o medo do dinheiro que não tem o impele a não investir.  \n\nAqui estão algumas opções, com diferentes níveis de risco e tempo de retorno:\n\n**1. Poupança com Grana Fixa (R$ 50 - R$ 100 por mês):**\n\n*   **Vantagens:** É a opção mais segura, com baixo risco. O dinheiro fica no banco por um período determinado, e o rendimento é baixo, mas previsível.\n*   **Desvantagens:** O retorno é mínimo, e o dinheiro pode perder valor com a inflação.\n*   **Onde investir:** Plataformas de poupança com grana fixa, como o Banco do Brasil, Nubank, ou outros bancos que oferecem CDBs com liquidez diária.  \n*   **Dica:** Se você não tem um plano de longo prazo, pode optar por um CDB com liquidez diária, que permite resgatar o dinheiro a qualquer momento."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "Qual a diferença entre poupar e investir?",
+      "response": "A diferença entre poupar e investir é crucial para o seu dinheiro. Se você tem um salário mínimo, é mais seguro e prático começar por poupar. Se você tem um salário mais alto, pode começar a investir, mas é importante entender que o dinheiro que você investe pode perder valor.  \n\nAqui está um resumo das diferenças:\n\n**Poupar:**\n\n*   **O que é:** É guardar um percentual do seu dinheiro para uso futuro. Por exemplo, se você tem R$ 1.200 por mês, pode poupar R$ 40, ou R$ 400 por mês. Essa é uma forma de segurança, mas não gera retorno.\n*   **Risco:** Baixo. O dinheiro que você poupa não tem chance de se perder devido a flutuações do mercado.\n*   **Tempo:** Longo. Pode ser feito com qualquer quantia, mas é mais difícil de aumentar o valor do dinheiro."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "O que é reserva de emergência e por que é importante?",
+      "response": "A reserva de emergência é um tipo de investimento que tem como objetivo guardar um valor do seu orçamento para cobrir despesas inesperadas. Imagine que você recebe um desacerto no seu negócio, um problema de saúde ou qualquer outra situação que possa exigir um gasto de emergência. Por exemplo, se você é estudante e precisa de um carro para levar o aluno para a escola, ou se você é um freelancer e precisa de um plano B para não perder o bico.  \n\nA **importância** da reserva de emergência é que ela te protege do estresse e da incerteza. Quando você tem um \"bico de segurança\" no bolso, não precisa se preocupar com o que vai acontecer se algo inesperado rolar. A reserva de emergência te dá a tranquilidade de que, se a situação mudar, você pode lidar com ela sem precisar recorrer a dívidas ou recorrer a cartões de crédito.  \n\n**Por que é importante?**  \n\n*   **Redução do estresse:** Saber que você tem um \"bico de segurança\" diminui a ansiedade e o medo de não conseguir cobrir despesas.\n*   **Evita dívidas:**"
+    },
+    {
+      "stage": "dpo",
+      "tipo": "formal",
+      "question": "Como fazer um orçamento mensal simples?",
+      "response": "Fazer um orçamento mensal simples é um passo fundamental para controlar suas despesas e garantir que você tenha dinheiro para cobrir suas necessidades. Aqui está um guia com um orçamento que você pode adaptar:\n\n**1. Anote suas Despesas:**\n\n*   **Despesas Fixas:** São aquelas que você paga todo mês, como aluguel, conta de luz, internet, e mensalidades. Se você tem um cartão de crédito, anote o valor total que você gasta nesse tipo de despesa.\n*   **Despesas Variáveis:** São aquelas que mudam de mês para mês, como alimentação, transporte, e despesas com TV a cabo. Para essas, você pode usar um diário de despesas ou um aplicativo de orçamento.\n*   **Despesas Ocasionais:** São despesas que não acontecem todo mês, como aluguel de piscinas, despesas com festas, ou despesas com veterinário."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "Mano, o que é essa tal de inflação? Tá comendo minha grana?",
+      "response": ""
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "Parceiro, como faz pra guardar uns trocado ganhando um salário mínimo?",
+      "response": "Guardar troco de um salário mínimo é um desafio, mas não é impossível. O ideal é que você faça um pouco de planejamento e organização. Aqui estão algumas dicas:\n\n1.  **Anote tudo:** O primeiro passo é saber quanto você ganha no mês. Se você tiver um trampo fixo, como um salário mínimo, anote cada centavo que você recebe. Se não tiver um trampo, pode fazer um diário de receitas e despesas. \n\n2.  **Defina um valor:** Depois de ver o total do seu trampo, defina um valor que você pode guardar por mês. Por exemplo, se você ganha R$ 800, pode guardar R"
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "Fica ligado, vale a pena pegar empréstimo pra quitar uma dívida?",
+      "response": "A decisão de pegar empréstimo pra quitar uma dívida é um passo que exige muita reflexão e planejamento. Não é uma solução que se faz de forma isolada, e é crucial entender os riscos e benefícios antes de tomar essa decisão.  \n\nVou te dizer que **pode valer a pena**, mas **não é uma bala de prata**.  \n\n**Por que pode valer a pena?**  \n\n*   **Redução de juros:** Se a dívida principal é mais cara que o empréstimo, o valor do empréstimo pode ser mais barato que o juro da dívida. Por exemplo, se você tem um cartão de crédito com juros de 20% ao mês e um empréstimo com juros de 10%, o empréstimo pode ser mais vantajoso."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "Passa a visão sobre juros compostos, como funciona essa fita?",
+      "response": "A visão sobre juros compostos é que o dinheiro que você recebe em juros é mais que o que você pagou no mês. É um conceito que, se bem compreendido, pode te ajudar a planejar e investir com mais precisão. A fita de juros compostos é uma ferramenta visual que ilustra como esse processo de crescimento do dinheiro funciona.  \n\nVou te explicar como o juros compostos funciona, como ele se manifesta na fita, e como você pode usar esse conhecimento para investir.  \n\n**1. O que é Juros Compostos?**\n\nJuros compostos são juros que se somam ao longo do tempo, e o rendimento do mês anterior é aplicado ao novo. Por exemplo, se você recebe R$ 1.200 por mês em juros e R$ 1.000 por mês em juros, o rendimento do mês que você recebeu é R$ 200, e esse R$ 200 é aplicado no novo mês."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "Mano, dá pra começar a investir com 50 conto? Como faz?",
+      "response": ""
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "Qual a diferença entre guardar grana e investir? Me explica na moral.",
+      "response": ""
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "O que é reserva de emergência? Por que o pessoal da quebrada precisa disso?",
+      "response": "A reserva de emergência é um tipo de conta de poupança que tem como objetivo principal garantir que o dinheiro do dia a dia não se perca no meio do processo. O dinheiro que você ganha no mês, como R$ 800, R$ 1.200, ou até R$ 1.500, é colocado no fundo da conta, como se fosse um \"bico de grana\" para emergências.  \n\nPor exemplo, se você tem R$ 1.200 no mês, e R$ 800 é gasto no dia, o restante da grana é colocado na reserva de emergência. Se você precisa de R$ 500 em 30 dias, pode usar o dinheiro que está na reserva de emergência sem se preocupar com o que vai rolar.  \n\nAí o pessoal da quebrada, como muitos, precisa de um plano de como usar esse dinheiro. O que é um \"bico de grana\" é um dinheiro que não é usado no dia a dia, mas que pode ser usado em caso de emergência."
+    },
+    {
+      "stage": "dpo",
+      "tipo": "periferia",
+      "question": "Como organizar a grana do mês de um jeito simples? Tô perdido, mano.",
+      "response": ""
+    }
+  ]
+}

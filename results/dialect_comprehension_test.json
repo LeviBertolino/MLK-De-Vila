@@ -1,0 +1,22 @@
+[
+  {
+    "stage": "base",
+    "phrase": "Ae parceiro, to no busão chegando na quebrada, mano esse bagulho de grana é embaçado, você dá mó trampo e essa parada de inflação engole sua grana. Na moral, papo reto memo, você precisa pegar a visão de investir. Chegando ai, nois troca ideia.",
+    "response": "Pode crer, parceiro! A vibe tá boa, né? A quebrada tá chegando e a grana tá no ar. A inflação tá pesando, mas a gente precisa pensar no futuro, sabe? \n\nA gente tá conversando sobre investimentos, tá ligado? É hora de dar umas voltas, analisar as opções, ver o que dá mais retorno. A gente precisa ser estratégico, não é? \n\nA gente vai dar umas ideias, tá? A gente vai ver o que a gente pode fazer pra garantir que a gente não seja pego de surpresa com a inflação. \n\nE aí, o que você acha? Tem alguma coisa que a gente pode começar a pensar?"
+  },
+  {
+    "stage": "cpt",
+    "phrase": "Ae parceiro, to no busão chegando na quebrada, mano esse bagulho de grana é embaçado, você dá mó trampo e essa parada de inflação engole sua grana. Na moral, papo reto memo, você precisa pegar a visão de investir. Chegando ai, nois troca ideia.",
+    "response": "Sem contexto, é difícil responder, mas o que você escreveu dá uma ideia bem clara: está falando sobre uma situação difícil, provavelmente de quem tá correndo atrás de dinheiro. Pode interpretar como:\n\n*   **Problemas Financeiros:** A pessoa tá passando por dificuldades e precisa quitar dívidas ou se virar.\n*   **Golpe de Inflação:** Está falando que os preços estão subindo e é complicado manter seu orçamento.\n*   **Decisão de Investimento:** Os amigos estão debruçado em ideias sobre como fazer o dinheiro render.\n\nSe quiser, pode me passar um pouco mais sobre o que esse trecho quer dizer. Assim, se eu puder ajudar você a entender melhor, o que que você gostaria saber ou qual seria o seu próximo passo?"
+  },
+  {
+    "stage": "sft",
+    "phrase": "Ae parceiro, to no busão chegando na quebrada, mano esse bagulho de grana é embaçado, você dá mó trampo e essa parada de inflação engole sua grana. Na moral, papo reto memo, você precisa pegar a visão de investir. Chegando ai, nois troca ideia.",
+    "response": "Você tá no caminho da vida, mas a gente tá no meio de um jogo de dinheiro. A coroa tá no ar, mas a gente tem que se planejar. A gente tá no meio de um processo de investimento, mas a gente tem que ter clareza. A gente tem que ver o que tá rolando, o que tá valendo, e o que tá valendo a pena. A gente tem que se preparar para o futuro, mas a gente tem que ter a visão de hoje."
+  },
+  {
+    "stage": "dpo",
+    "phrase": "Ae parceiro, to no busão chegando na quebrada, mano esse bagulho de grana é embaçado, você dá mó trampo e essa parada de inflação engole sua grana. Na moral, papo reto memo, você precisa pegar a visão de investir. Chegando ai, nois troca ideia.",
+    "response": "Vou te passar a visão de investir, mas é importante entender que **não é pra ser feito no seu bolso**. Se você é um estudante, um jovem de 17 anos, tem que ter um plano. O dinheiro que você ganha no mês é pra ser usado com responsabilidade. Por exemplo, se você é MEI e tem R$ 1.200 por mês, é melhor que você anote cada centavo que recebe e distribua para despesas fixas, como aluguel, contas, e depois deixar um monte pra investir.  \n\nSe você é um adolescente de 17, tem que ter um caderno pra anotar tudo que você recebe. Por exemplo, se você ganha R$ 500 por mês, é melhor que você anote cada centavo que recebe e distribua para despesas fixas, como aluguel, contas, e depois deixar um monte pra investir."
+  }
+]
